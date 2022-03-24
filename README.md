@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @binudts
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on coders
+- 💞️ I’m looking to collaborate on codeing
 - 📫 How to reach me by codes
 
 <!---
